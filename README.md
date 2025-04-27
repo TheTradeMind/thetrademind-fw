@@ -2,7 +2,7 @@
 
 TradeMindAI Framework is a CLI client written in TypeScript (Node.js) that allows users to **create, list, and interact with AI agents** for the TradeMind Agent Network via **CLI commands** — without a GUI.
 
-It connects to the **TradeMind API** (hosted at trademind-api.vercel.app) to handle business logic and AI interactions.
+It connects to the **TradeMind API** to handle business logic and AI interactions.
 
 ## 🚀 Features
 
